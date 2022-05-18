@@ -8,6 +8,8 @@
 */
 
 class Person{
-    //
+    // Class Properties
+    var $name;
+    var $address;
+    var $country;
 }
-
